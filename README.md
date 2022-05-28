@@ -5,6 +5,8 @@ Informed Flutter App Task.
 ## Getting Started
 
 This project has beed developed using flutter and tested in android application minSdkVersion 21
+The app runs on Tools • Dart 2.16.1 • DevTools 2.9.2 versions
+
 
 ## How to install the application:
 run this command in your termina:
@@ -15,8 +17,6 @@ open the project in Android Studio or VScode
 
 run the app on the emulator or physical device
 ```
-clone this app.
-Go to the project folder and run "flutter pub.get"
 
 ### How the app looks:
 
