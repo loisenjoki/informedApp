@@ -72,9 +72,10 @@ class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: AppColors.white,
       appBar: AppBar(
-        title: const Text("Informed"),
+        title:  Text("Informed new App",style: Styles.title()),
+        backgroundColor: AppColors.boxcolor,
         centerTitle: true,
       ),
       body: !isConnected ?

@@ -42,7 +42,6 @@ class _ArticleDetailsState extends State<ArticleDetails> {
   Widget build(BuildContext context) {
     DateTime time = DateTime.parse(widget.articlePostedAt);
     bool isHostedContent = widget.isHosted;
-    bool isCatdata = false;
 
     String formateDate = DateFormat.yMEd().add_jms().format(time);
     final Size size = MediaQuery.of(context).size;
