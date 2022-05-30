@@ -8,6 +8,27 @@ This project has beed developed using flutter and tested in android application 
 The app runs on Tools • Dart 2.16.1 • DevTools 2.9.2 versions
 
 
+# Flutter Setup & Notes
+
+## . Download SDK
+
+Download Flutter SDK, extract the "Flutter" folder and put somewhere on your machine
+https://flutter.dev/docs/get-started/install
+
+## . Add path
+
+Add path for 'location/flutter/bin'
+
+## . Check dependencies
+
+```
+flutter doctor
+```
+
+
+## . Install Flutter plugin
+
+
 ## How to install the application:
 run this command in your termina:
 ```
