@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This project has beed developed using Flutter and GraphQL and tested in android application minSdkVersion 21
+This project has been developed using Flutter and GraphQL and tested in android application minSdkVersion 21
 The app runs on Tools • Dart 2.16.1 • DevTools 2.9.2 versions
 
 
